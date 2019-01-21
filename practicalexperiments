@@ -1,1 +1,4 @@
 1. Create a C# Application where you have t calculate total amount in a Piggybank. A piggy bank having 10 Rs coin, 5 Rs coin, 2 Rs coin and 1 Rs coin. 
+2. Create a C# Application which generate electricity bill from the following conditions: 
+Condition 1. If meter reading is more then 100 charagble amount will be 6.95 Rs per unit.
+Condition 2. If meter reading is less then 100 charagble amount will be 5.95 Rs per unit.
