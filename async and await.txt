@@ -1,0 +1,9 @@
+
+async and await are new C# language features that work in conjunction with the Task Parallel Library to make it easy to write threaded code to perform long-running tasks without blocking the main thread of your application.
+
+async
+The async keyword is placed in a method declaration (or on a lambda or anonymous method) to indicate that it contains code that can run asynchronously, ie. not block the caller’s thread.
+
+await
+The await operator can be applied to a Task inside a method marked as async. It causes the method to stop execution at that point and wait until the task completes.
+

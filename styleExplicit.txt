@@ -1,0 +1,35 @@
+<Style x:Key="labelRedStyle" TargetType="Label">
+                <Setter Property="HorizontalOptions"
+                        Value="Center" />
+                <Setter Property="VerticalOptions"
+                        Value="CenterAndExpand" />
+                <Setter Property="FontSize" Value="Large" />
+                <Setter Property="TextColor" Value="Red" />
+            </Style>
+
+            <Style x:Key="labelGreenStyle" TargetType="Label">
+                ...
+                <Setter Property="TextColor" Value="Green" />
+            </Style>
+            <Style x:Key="labelBlueStyle" TargetType="Label">
+                ...
+                <Setter Property="TextColor" Value="Blue" />
+            </Style>
+
+
+<Style x:Key="labelRedStyle" TargetType="Label">
+                <Setter Property="HorizontalOptions"
+                        Value="Center" />
+                <Setter Property="VerticalOptions"
+                        Value="CenterAndExpand" />
+                <Setter Property="FontSize" Value="Large" />
+                <Setter Property="TextColor" Value="Red" />
+            </Style>
+            <Style x:Key="labelGreenStyle" TargetType="Label">
+                ...
+                <Setter Property="TextColor" Value="Green" />
+            </Style>
+            <Style x:Key="labelBlueStyle" TargetType="Label">
+                ...
+                <Setter Property="TextColor" Value="Blue" />
+            </Style>
