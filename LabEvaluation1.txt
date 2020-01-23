@@ -1,0 +1,37 @@
+Q: Odd Roll No.:
+A program where  you have to check student is allowed to sit in the exam or not? A student will not be allowed to sit in the exam if his/her attendance is less than 75%. The student will be only allowed to sit if he/she has a medical cause.
+
+Take the following input from the user:
+Test Case 1:
+No. of classes held :30
+No. of classes attended:30
+Output:classes attended:100%
+You are allow to sit in exam
+
+Test Case 2:
+
+No. of classes held :30
+No. of classes attended:3
+Output:classes attended:10%
+You are not allow to sit in exam
+
+Q: Even Roll No.: 
+A program where you have to deliver your food according to order.
+
+Out Put:
+Enter Your Contact No.:
+Select your Choice:
+1. Pizza
+2. Burger
+3. Pasta
+
+Option 1:
+Flavaour: 
+Medium,
+Large
+Small
+Medium
+No. of item:3
+Your food is ready
+
+
