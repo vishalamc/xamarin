@@ -2,3 +2,4 @@ Install-Package Microsoft.NETCore.UniversalWindowsPlatform -Version 6.2.9
 Install-Package NuGet.Build -Version 2.12.1
 Install-Package Xam.Plugins.DownloadManager -Version 1.4.0
 Install-Package Xamarin.Forms -Version 4.4.0.991537
+Update-Package NuGet.VisualStudio
