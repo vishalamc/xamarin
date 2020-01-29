@@ -1,1 +1,2 @@
 Install-Package Xam.Plugins.DownloadManager -Version 1.4.0
+Install-Package Xamarin.Forms -Version 4.4.0.991537
